@@ -1,0 +1,1 @@
+<?php echo $content; ?><?php /**PATH /media/hassan/Projects/Personal work/client work/aloadaiman-app-test-work/resources/views/emails/exceptions.blade.php ENDPATH**/ ?>

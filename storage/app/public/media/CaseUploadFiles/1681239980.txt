@@ -1,0 +1,21 @@
+ec2: 54.243.106.85
+username: ubuntu 
+root user name: root
+pass: 94996811989Mm!
+
+
+=====smtp========
+ses-smtp-user.20220929-004914
+user: AKIAZRNLJ3WPMZBG557J
+
+pas: BA4H2+xSCmYn6wAhiTsV8UYJ/Rs1JPIFmwG23lA1O8x8
+
+
+email-smtp.us-east-1.amazonaws.com
+=============sql===========
+CREATE USER 'shahriar'@'localhost' IDENTIFIED BY 'sunshine1047@#';
+ GRANT ALL PRIVILEGES ON *.* TO 'shahriar'@'localhost' WITH GRANT OPTION;
+CREATE USER 'shahriar'@'%' IDENTIFIED BY 'sunshine1047';
+GRANT ALL PRIVILEGES ON *.* TO 'shahriar'@'%' WITH GRANT OPTION;
+================
+
